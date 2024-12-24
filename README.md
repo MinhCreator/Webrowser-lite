@@ -43,6 +43,7 @@ You will need:
 4. Run the project from the Godot editor or export it for your target platform.
 #### 🐧 Linux
 Written by mxjeonsgw
+
 **First** download the Godot 4 engine release for Linux, it's in a .tar.gz file, and its contents are just the executable, uncompress it wherever you want but somewhere reachable, maybe in /opt/Godot if you will, but you can do it in the desktop as well.
 
 **Second** git clone the wattesigma project (you can add --depth=1 to the command line to not download all the commit history bundled, but you can open the GitHub repo page and download everything as a zip, it doesn't matter)
